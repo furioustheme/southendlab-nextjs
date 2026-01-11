@@ -1,0 +1,35 @@
+{
+  "perameter": {
+    "title": "Southendlabs Blog",
+    "favicon": "/images/favicon.png",
+    "pagination": 4,
+    "sharePost": true,
+    "contactFormAction": "https://airform.io/youremail@gmail.com",
+    "logo": "/images/logo/logo.png",
+    "showSearch": true
+  },
+
+  "footer": {
+    "copyright": "Copyright by your [company](https://furioustheme.com/)",
+    "theme_copyright": true
+  },
+
+  "socialMedia": [
+    {
+      "icon": "fab fa-facebook-f",
+      "link": "https://www.facebook.com/#"
+    },
+    {
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/?lang=en"
+    },
+    {
+      "icon": "fab fa-linkedin-in",
+      "link": "https://www.pinterest.com/#/_saved/"
+    },
+    {
+      "icon": "fab fa-github-alt",
+      "link": "https://www.instagram.com/#"
+    }
+  ]
+}

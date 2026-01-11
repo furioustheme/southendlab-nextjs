@@ -1,0 +1,33 @@
+{
+  "color": {
+    "themeColor": {
+      "primary": "#4649FD",
+      "body": "#ffff",
+      "border": "#E4E4E4"
+    },
+
+    "textColor": {
+      "default": "#666",
+      "dark": "#222",
+      "light": "#7777"
+    },
+    "basicColor": {
+      "black": "#000",
+      "white": "#ffff",
+      "dark": "#222222",
+      "light": "#ddd"
+    }
+  },
+  "font": {
+    "fontFamily": {
+      "primary": "Montagu+Slab:wght@500",
+      "type": "sans-serif",
+      "secondary": "Montserrat:wght@300",
+      "icon": "Font Awesome 5 Free"
+    },
+    "fontSize": {
+      "base": "16px",
+      "font_scale": 1.25
+    }
+  }
+}
