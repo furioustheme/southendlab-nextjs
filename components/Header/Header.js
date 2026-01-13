@@ -45,7 +45,7 @@ const Header = ({ navbar, isOpen, toggle, isFixed, blog }) => {
                   setShowSearchPosts(e.target.value);
                 }}
                 className="w-2/3  py-4  outline-none text-2xl  px-6"
-                placeholder="Tyepe Here"
+                placeholder="Type Here"
                 autoFocus
               />{" "}
               <a className="text-h4 cursor-pointer" onClick={handleSearch}>
